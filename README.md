@@ -28,6 +28,8 @@
 - ICCV : International Conference on Computer Vision
   - CVPR과 함께 컴퓨터 비전 분야의 최고 권위를 인정받는 학회
   - 홀수 해의 10월에 개최
+### 레퍼런스
+- [AI/DL/ML 주요 학회 순위 및 분류](https://soyoungpapa.co.kr/ai-dl-ml-%EC%A3%BC%EC%9A%94-%ED%95%99%ED%9A%8C-%EC%88%9C%EC%9C%84-%EB%B0%8F-%EB%B6%84%EB%A5%98/)
 
 ## 논문 간단 리뷰
 ### [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
